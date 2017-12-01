@@ -21,6 +21,7 @@ main {
 	flex-direction: column;
 
 	width: 1000px;
+	min-width: 670px;
 	padding: 10px;
 
 	background-color: #FFFFFF;
