@@ -135,3 +135,30 @@ h2, h3 {
 .rubrique:hover .titreRubrique {
 	border-color: white;
 }
+
+.intituleLogo{
+	display: flex;
+}
+.bg-watertonlogo {
+	margin-top: 10px;
+    width: 42px; height: 25px;
+    background: url('../img/css_sprites.png') -113px -10px;
+}
+
+.bg-logo_ssci_KALLISTE_texte {
+	margin-top: 10px;
+    width: 30px; height: 25px;
+    background: url('../img/css_sprites.png') -113px -55px;
+}
+
+.bg-toysrus {
+	margin-top: 10px;
+    width: 83px; height: 25px;
+    background: url('../img/css_sprites.png') -10px -10px;
+}
+
+.bg-medicasoft {
+	margin-top: 10px;
+    width: 54px; height: 25px;
+    background: url('../img/css_sprites.png') -10px -55px;
+}
